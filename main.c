@@ -12,6 +12,8 @@ int main() {
     return result;
 }
 
+int fgh()
+
 int fn3() {
     // Peter is a cunt
 }
